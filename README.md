@@ -2,7 +2,8 @@
 Backup script
 
 Получите OAuth-токен для доступа к Яндекс.Диску.
-Это можно сделать через Яндекс.OAuth. https://oauth.yandex.ru/
+Это можно сделать через Яндекс.OAuth. 
+https://oauth.yandex.ru/
 После создания OAuth-токена получите токен для доступа внешних приложений. Для этого перейдите по ссылке, предварительно заменив укажите_свой_ClientID
 ```
 https://oauth.yandex.ru/authorize?response_type=token&client_id=укажите_свой_ClientID
